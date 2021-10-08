@@ -9,3 +9,5 @@ There is an expected error in the patient and doctor login but once you login th
 The project database structure is in the datalayer (FOLDER) - SQL DATABASE EXPORT 
 and its called registration(1)
 # Doctor_Appoinments_System
+
+https://www.youtube.com/watch?v=q_UOeDqmxU0&t=530s
